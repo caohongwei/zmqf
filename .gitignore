@@ -1,0 +1,17 @@
+*.pyc
+*.swp
+*/.idea/*
+*/logs/*
+*/tmp/*
+/.settings/*
+*.log
+.project
+.pydevproject
+*.pyo
+*.so
+*.class
+*~
+build/
+/dist/
+MANIFEST
+/zmqf.egg-info/
