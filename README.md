@@ -1,5 +1,7 @@
 # zmqf
-zmq based web framework
+zmqf is the ZMQ based framework with web style. It is used for the communications between backend servers by ZMQ.
+
+The components of zmqf is basically divieded into 3 parts： server stub，broker and client interface.
 
 # Install
 #### 1. Compile And Install zmq
